@@ -29,3 +29,5 @@ class Artist
     @@song_count = 3
   end
 end
+
+Artist
